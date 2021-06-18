@@ -104,7 +104,7 @@ section {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(../PimenovSait/pictures/headerbig.jpg);
+    background-image: url(./pictures/headerbig.jpg);
     background-position-y: center;
     height: 500px;
     background-repeat: no-repeat;
@@ -161,7 +161,7 @@ section {
     
 }
 .heading-block1 {
-    background-image: url(../PimenovSait/pictures/mishki.jpg);
+    background-image: url(./pictures/mishki.jpg);
     background-position: center;
     background-size: cover;
     height: 90%;
@@ -172,7 +172,7 @@ section {
 }
 
 .heading-block2 {
-    background-image: url(../PimenovSait/pictures/klava.jpg);
+    background-image: url(./pictures/klava.jpg);
     background-position: center;
     background-size: cover;
     height: 90%;
@@ -183,7 +183,7 @@ section {
 }
 
 .heading-block3 {
-    background-image: url(../PimenovSait/pictures/nayshniki.jpg);
+    background-image: url(./pictures/nayshniki.jpg);
     background-position: center;
     background-size: cover;
     height: 90%;
@@ -198,7 +198,7 @@ section {
 
 /*=====================SECTION and Footer===================================*/
 .section1 {
-    background-image: url(../PimenovSait/pictures/bluetooth.png);
+    background-image: url(./pictures/bluetooth.png);
     background-position: center;
     height: 400px;
     display: flex;
@@ -208,7 +208,7 @@ section {
     border-style: solid;   
 }
 .section2 {
-    background-image: url(../PimenovSait/pictures/kovrik.jpg);
+    background-image: url(./pictures/kovrik.jpg);
     display: flex;
     align-items: flex-end;
     height: 400px;
@@ -223,7 +223,7 @@ section {
     display: flex;
     align-items: flex-end;
     justify-content: space-around;
-    background-image: url(../PimenovSait/pictures/kreslo.jpg);
+    background-image: url(./pictures/kreslo.jpg);
     background-position: center;
     background-size:cover ;
     height: 400px;
@@ -342,7 +342,7 @@ footer {
 
 
 #button {
-    background-image: url(../PimenovSait/pictures/vampyre.png);
+    background-image: url(./pictures/vampyre.png);
     position: relative;
     font-size: .75rem;
     width: 181px;
