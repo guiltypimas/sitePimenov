@@ -1,8 +1,5 @@
 body {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    
     padding: 0% 5% 0% 5%;
     background-color: #080808;
     ;
@@ -21,6 +18,11 @@ body {
     border: 3px solid #8f3a3a;
 }
 
+main {
+    margin: auto;
+    max-width: 1200px;
+    
+}
 
 /*===H and Text Settings===*/
 
